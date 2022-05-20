@@ -8,8 +8,8 @@ module.exports = {
 
   // basic site info (required)
   name: '박찬종',
-  domain: 'ChangJong.it',
-  author: 'ChangJong',
+  domain: 'chanjongp.co.kr',
+  author: 'ChanjongP',
 
   // open graph metadata (optional)
   description: 'Welcome ChangJong World!',
@@ -19,7 +19,7 @@ module.exports = {
   // social usernames (optional)
   // twitter: 'transitive_bs',
   github: 'Chanjongp',
-  // linkedin: 'fisch2',
+  linkedin: 'park-chanjong-6901531ba',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
